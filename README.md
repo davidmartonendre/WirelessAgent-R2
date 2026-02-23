@@ -289,17 +289,17 @@ If you find WirelessAgent++ useful in your research, please cite our papers:
 ```bibtex
 @article{tong2026wirelessagentplus,
   title     = {WirelessAgent++: Automated Agentic Workflow Design and Benchmarking for Wireless Networks},
-  author    = {Tong, Jingwen and Lin, Zehong and Zhang, Jun},
-  journal   = {IEEE Transactions on Wireless Communications},
+  author    = {Authors},
+  journal   = {IEEE Transactions on ****},
   year      = {2026},
   note      = {Under review}
 }
 
-@inproceedings{tong2024wirelessagent,
-  title     = {WirelessAgent: Large Language Model Agents for Intelligent Wireless Networks},
-  author    = {Tong, Jingwen and Lin, Zehong and Zhang, Jun},
-  booktitle = {IEEE Global Communications Conference (GLOBECOM)},
-  year      = {2024}
+@article{tong2025wirelessagent,
+  title={WirelessAgent: Large language model agents for intelligent wireless networks},
+  author={Tong, Jingwen and Guo, Wei and Shao, Jiawei and Wu, Qiong and Li, Zijian and Lin, Zehong and Zhang, Jun},
+  journal={arXiv preprint arXiv:2505.01074},
+  year={2025}
 }
 ```
 
