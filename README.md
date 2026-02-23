@@ -84,21 +84,11 @@ WirelessAgent++ employs three domain-aware enhancements to the standard MCTS alg
 
 3. **3-Class Experience Replay** — Classifies mutation outcomes as *Success*, *Neutral*, or *Failure* (rather than binary), preventing noise-induced fluctuations from corrupting the experience buffer.
 
-### Optimization Trajectory (WCHW)
-
-<p align="center">
-  <img src="figures/performance_overview.png" width="90%" alt="WCHW Optimization Trajectory">
-</p>
+### Optimization Results
 
 - **19 rounds** of optimization, **\$4.95** total search cost, **~63 min** wall-clock time
 - Score improved from **62.44%** (Round 1, seed) to **81.78%** (Round 14, best)  — a **+30.97%** improvement
 - The optimizer discovers tool integration (Round 2, +18.42 pp) as the single largest gain
-
-### MCTS Search Tree
-
-<p align="center">
-  <img src="figures/mcts_tree_structure.png" width="90%" alt="MCTS Search Tree">
-</p>
 
 ---
 
@@ -135,11 +125,25 @@ WirelessBench is a standardized, multi-dimensional benchmark suite for evaluatin
 
 ## 📈 Results
 
-### Main Results
+### WCHW — Wireless Communication Homework
 
 <p align="center">
-  <img src="figures/comparative_analysis.png" width="90%" alt="Comparative Analysis">
+  <img src="assets/wchw_results.png" width="75%" alt="WCHW Method Comparison">
 </p>
+
+### WCNS — Wireless Communication Network Slicing
+
+<p align="center">
+  <img src="assets/wcns_results.png" width="75%" alt="WCNS Full Comparison">
+</p>
+
+### WCMSA — Mobile Service Assurance
+
+<p align="center">
+  <img src="assets/wcmsa_results.png" width="75%" alt="WCMSA Overall Score">
+</p>
+
+### Main Results
 
 | Method | HotpotQA (F1) | DROP (F1) | MATH (Acc) | WirelessBench |
 |--------|:---:|:---:|:---:|:---:|
