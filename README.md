@@ -6,7 +6,7 @@
 <h3 align="center">Automated Agentic Workflow Design and Benchmarking for Wireless Networks</h3>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/xxxx.xxxxx"><img src="https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv" alt="arXiv"></a>
+  <a href="https://arxiv.org/pdf/2603.00501"><img src="https://img.shields.io/badge/arXiv-Paper-b31b1b?logo=arxiv" alt="arXiv"></a>
   <a href="#wirelessbench"><img src="https://img.shields.io/badge/🏆_WirelessBench-3,392_Problems-blue" alt="WirelessBench"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-green" alt="License"></a>
   <a href="https://github.com/jwentong/WirelessAgent-R2/issues"><img src="https://img.shields.io/badge/Issues-Welcome-yellow" alt="Issues"></a>
@@ -289,10 +289,9 @@ If you find WirelessAgent++ useful in your research, please cite our papers:
 ```bibtex
 @article{tong2026wirelessagentplus,
   title     = {WirelessAgent++: Automated Agentic Workflow Design and Benchmarking for Wireless Networks},
-  author    = {Authors},
-  journal   = {IEEE Transactions on ****},
+  author    = {Tong, Jingwen and Li, Zijian and Liu Fang and Guo, Wei and Zhang, Jun},
+  journal   = {arXiv preprint arXiv:2603.00501v1},
   year      = {2026},
-  note      = {Under review}
 }
 
 @article{tong2025wirelessagent,
